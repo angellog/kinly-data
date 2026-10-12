@@ -5,6 +5,6 @@
     "notes": "Useful for structured decision memos in advisory work; overlaps the existing marketing-council skill and is token-heavy in --full mode.",
     "test_log": "Read-only test, 2026-10-12 (no Docker on the host, so nothing was executed, per AGENTS.md):\n- git clone --depth 1 (hooks disabled) into a scratch directory: 12 s.\n- Contents: SKILL.md plus per-CLI variants (Codex, Gemini, OpenCode), 18 persona agents in agents/*.md, configs/*.yaml, install.sh, 3 Python and 2 shell helper scripts.\n- install.sh: copies the skill and agents into ~/.claude; no network calls, no eval, no sudo.\n- scripts/detect-providers.sh: reads provider env vars and optionally probes the NVIDIA NIM catalogue with curl; it keeps the key out of argv.\n- Agents declare tools Read, Grep, Glob, Bash, WebSearch, WebFetch. Restrict Bash before installing into Paperclip agents.\n- Usage cost: --full convenes 18 members across several rounds, so expect a heavy token bill per question; --triad or --quick for routine use.\nFit: structured decision memos for Vantik advisory work (pricing, build-vs-buy, client roadmap trade-offs). Overlaps the marketing-council skill already installed.\nMinutes: 15.",
     "agent": "kinly (read-only test by Claude, 2026-10-12)",
-    "updated_at": "2026-10-12T00:35:02.525Z"
+    "updated_at": "2026-10-12T00:30:26.990Z"
   }
 ]
