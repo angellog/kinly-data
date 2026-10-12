@@ -1,0 +1,5 @@
+*.db
+*.db-*
+.DS_Store
+# Rows Kinly may read but has no licence to republish (PLAN R6).
+data/snapshots/vitalets-archive/
