@@ -1,5 +1,5 @@
 {
-  "exported_at": "2026-10-12T00:13:53.270Z",
+  "exported_at": "2026-10-12T00:31:17.205Z",
   "repos": 5974,
   "appearances": 58220,
   "shards": [
@@ -49,10 +49,10 @@
     "last_list_date": "2026-10-12",
     "snapshots": 553,
     "user_stars": 219,
-    "shortlist": 0,
+    "shortlist": 1,
     "ratings": 0,
     "reports": 4,
-    "resources": 0,
+    "resources": 1,
     "scores": 5974
   }
 }
