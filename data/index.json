@@ -1,5 +1,5 @@
 {
-  "exported_at": "2026-10-12T00:47:12.936Z",
+  "exported_at": "2026-10-12T01:09:20.806Z",
   "repos": 5974,
   "shards": [
     "0",
@@ -42,7 +42,7 @@
   "stats": {
     "repos": 5974,
     "enriched": 5974,
-    "summarized": 5619,
+    "summarized": 5618,
     "appearances": 58220,
     "first_list_date": "2025-04-01",
     "last_list_date": "2026-10-12",
@@ -50,7 +50,7 @@
     "user_stars": 219,
     "shortlist": 1,
     "ratings": 0,
-    "reports": 3,
+    "reports": 4,
     "resources": 1,
     "scores": 5974
   }
