@@ -74,7 +74,7 @@
   },
   "star_topics": {
     "ai-agents": 0.647,
-    "mcp": 0.647,
+    "mcp": 0.667,
     "ai-agent": 0.216,
     "claude": 0.451,
     "python": 0.471,
@@ -83,7 +83,6 @@
     "cli": 0.275,
     "codex": 0.294,
     "cordis": 0.039,
-    "ctf": 0.039,
     "developer-tools": 0.275,
     "dsh": 0.059,
     "dsh-plugin": 0.098,
@@ -184,7 +183,7 @@
     "web-data": 0.039,
     "web-data-extraction": 0.039,
     "web-scraper": 0.078,
-    "web-scraping": 0.176,
+    "web-scraping": 0.196,
     "web-search": 0.039,
     "webscraping": 0.078,
     "scraper": 0.098,
@@ -279,12 +278,14 @@
     "architecture": 0.039,
     "architecture-diagram": 0.039,
     "graphql": 0.059,
+    "computer-use": 0.039,
     "sms-gateway": 0.039,
     "postgres": 0.039,
     "postgresql": 0.039,
     "shadcn-ui": 0.039,
     "cursor-ai": 0.039,
     "windsurf-ai": 0.039,
+    "browser-agent": 0.039,
     "langgraph": 0.039,
     "command-line": 0.039,
     "llms": 0.039,
@@ -301,5 +302,5 @@
     "ai-skills": 0.039
   },
   "business_context": "Angelo (GitHub angellog) is a solo builder. He runs Vantik Systems, an AI transformation advisory selling to US/Canada mid-market decision-makers with an East-Africa SME secondary market, publishing Instagram carousels and reels and operating a Paperclip multi-agent company. He also runs FeetBit, a sneaker retail brand in Uganda selling through Instagram and WhatsApp. He builds content pipelines (carousels, reels, voice, video), Instagram automation, Telegram agents, and small SaaS tools, mostly in TypeScript and Python with Claude Code.",
-  "generated_at": "2026-10-14T05:40:21.388Z"
+  "generated_at": "2026-10-15T05:40:17.638Z"
 }
