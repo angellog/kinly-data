@@ -164,6 +164,8 @@
     "mcp-server": 0.157,
     "javascript": 0.137,
     "nodejs": 0.137,
+    "self-hosted": 0.137,
+    "youtube-shorts": 0.039,
     "machine-learning": 0.059,
     "autonomous-agents": 0.059,
     "cloning": 0.039,
@@ -219,7 +221,6 @@
     "multi-agent": 0.098,
     "multimodal": 0.059,
     "docker": 0.078,
-    "self-hosted": 0.118,
     "awesome": 0.059,
     "awesome-list": 0.098,
     "awesome-lists": 0.059,
@@ -307,5 +308,5 @@
     "ai-skills": 0.039
   },
   "business_context": "Angelo (GitHub angellog) is a solo builder. He runs Vantik Systems, an AI transformation advisory selling to US/Canada mid-market decision-makers with an East-Africa SME secondary market, publishing Instagram carousels and reels and operating a Paperclip multi-agent company. He also runs FeetBit, a sneaker retail brand in Uganda selling through Instagram and WhatsApp. He builds content pipelines (carousels, reels, voice, video), Instagram automation, Telegram agents, and small SaaS tools, mostly in TypeScript and Python with Claude Code.",
-  "generated_at": "2026-10-19T05:40:08.215Z"
+  "generated_at": "2026-10-20T05:40:13.867Z"
 }

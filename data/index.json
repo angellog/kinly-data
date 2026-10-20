@@ -1,6 +1,6 @@
 {
-  "exported_at": "2026-10-19T06:40:08.531Z",
-  "repos": 6255,
+  "exported_at": "2026-10-20T05:43:26.088Z",
+  "repos": 6283,
   "shards": [
     "0",
     "1",
@@ -40,18 +40,18 @@
     "z"
   ],
   "stats": {
-    "repos": 6255,
-    "enriched": 6255,
-    "summarized": 5776,
-    "appearances": 60167,
+    "repos": 6283,
+    "enriched": 6283,
+    "summarized": 5788,
+    "appearances": 60441,
     "first_list_date": "2025-04-01",
-    "last_list_date": "2026-10-19",
-    "snapshots": 567,
+    "last_list_date": "2026-10-20",
+    "snapshots": 569,
     "user_stars": 226,
     "shortlist": 3,
     "ratings": 0,
-    "reports": 11,
+    "reports": 12,
     "resources": 1,
-    "scores": 6255
+    "scores": 6283
   }
 }
