@@ -73,6 +73,12 @@
     "paperclip": 2
   },
   "star_topics": {
+    "cross-platform": 0.058,
+    "desktop-app": 0.058,
+    "downloader": 0.058,
+    "linux": 0.038,
+    "macos": 0.115,
+    "windows": 0.058,
     "mcp": 0.692,
     "seo": 0.038,
     "agent-skills": 0.442,
@@ -139,7 +145,6 @@
     "mermaid": 0.038,
     "ai-assistant": 0.058,
     "anthropic": 0.231,
-    "macos": 0.096,
     "voice-ai": 0.058,
     "voice-assistant": 0.038,
     "dubbing": 0.038,
@@ -170,7 +175,7 @@
     "landing-page": 0.058,
     "web-design": 0.038,
     "mcp-server": 0.154,
-    "javascript": 0.135,
+    "javascript": 0.115,
     "nodejs": 0.135,
     "self-hosted": 0.135,
     "youtube-shorts": 0.038,
@@ -182,8 +187,6 @@
     "skill": 0.096,
     "email-marketing": 0.038,
     "marketing": 0.038,
-    "cross-platform": 0.038,
-    "downloader": 0.038,
     "instagram": 0.058,
     "ai-crawler": 0.038,
     "ai-scraping": 0.058,
@@ -202,7 +205,6 @@
     "scraper": 0.096,
     "tiktok": 0.058,
     "byok": 0.038,
-    "desktop-app": 0.038,
     "hermes-agent": 0.038,
     "prototyping": 0.038,
     "ai-tools": 0.135,
@@ -240,7 +242,6 @@
     "ollama": 0.038,
     "rust": 0.077,
     "transcription": 0.038,
-    "windows": 0.038,
     "web": 0.058,
     "ai-penetration-testing": 0.038,
     "ai-security": 0.058,
@@ -314,5 +315,5 @@
     "ai-skills": 0.038
   },
   "business_context": "Angelo (GitHub angellog) is a solo builder. He runs Vantik Systems, an AI transformation advisory selling to US/Canada mid-market decision-makers with an East-Africa SME secondary market, publishing Instagram carousels and reels and operating a Paperclip multi-agent company. He also runs FeetBit, a sneaker retail brand in Uganda selling through Instagram and WhatsApp. He builds content pipelines (carousels, reels, voice, video), Instagram automation, Telegram agents, and small SaaS tools, mostly in TypeScript and Python with Claude Code.",
-  "generated_at": "2026-10-21T05:40:19.488Z"
+  "generated_at": "2026-10-22T05:40:20.495Z"
 }
