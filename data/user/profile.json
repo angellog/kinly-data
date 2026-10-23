@@ -116,7 +116,7 @@
     "model-context-protocol": 0.058,
     "reverse-engineering": 0.077,
     "claude-code-plugin": 0.115,
-    "terminal": 0.077,
+    "terminal": 0.058,
     "api": 0.077,
     "automation": 0.173,
     "browser-automation": 0.058,
@@ -315,5 +315,5 @@
     "ai-skills": 0.038
   },
   "business_context": "Angelo (GitHub angellog) is a solo builder. He runs Vantik Systems, an AI transformation advisory selling to US/Canada mid-market decision-makers with an East-Africa SME secondary market, publishing Instagram carousels and reels and operating a Paperclip multi-agent company. He also runs FeetBit, a sneaker retail brand in Uganda selling through Instagram and WhatsApp. He builds content pipelines (carousels, reels, voice, video), Instagram automation, Telegram agents, and small SaaS tools, mostly in TypeScript and Python with Claude Code.",
-  "generated_at": "2026-10-22T05:40:20.495Z"
+  "generated_at": "2026-10-23T05:40:25.014Z"
 }
