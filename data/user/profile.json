@@ -73,6 +73,15 @@
     "paperclip": 2
   },
   "star_topics": {
+    "android": 0.073,
+    "ios": 0.055,
+    "llama-cpp": 0.073,
+    "local-ai": 0.055,
+    "macos": 0.127,
+    "mcp": 0.709,
+    "offline-ai": 0.036,
+    "vision-language-model": 0.036,
+    "whisper-cpp": 0.036,
     "agent-skills": 0.527,
     "ai-agents": 0.691,
     "awesome-list": 0.073,
@@ -128,14 +137,12 @@
     "prompt-engineering": 0.145,
     "skill": 0.109,
     "audio": 0.036,
-    "mcp": 0.691,
     "privacy": 0.055,
     "vibe-coding": 0.127,
     "cross-platform": 0.055,
     "desktop-app": 0.055,
     "downloader": 0.055,
     "linux": 0.055,
-    "macos": 0.109,
     "windows": 0.055,
     "seo": 0.036,
     "chatgpt": 0.182,
@@ -153,7 +160,6 @@
     "shadcn": 0.036,
     "ai-agent": 0.2,
     "grok": 0.036,
-    "android": 0.055,
     "cli": 0.255,
     "cpp": 0.036,
     "dsh-plugin": 0.073,
@@ -245,8 +251,6 @@
     "vercel": 0.055,
     "golang": 0.055,
     "realtime": 0.036,
-    "ios": 0.036,
-    "llama-cpp": 0.055,
     "swift": 0.055,
     "openclaw-skills": 0.036,
     "oss": 0.036,
@@ -266,7 +270,6 @@
     "hacktoberfest": 0.055,
     "cloud": 0.036,
     "apify": 0.036,
-    "local-ai": 0.036,
     "ollama": 0.036,
     "transcription": 0.036,
     "web": 0.055,
@@ -337,5 +340,5 @@
     "reverse-engineering": 0.055
   },
   "business_context": "Angelo (GitHub angellog) is a solo builder. He runs Vantik Systems, an AI transformation advisory selling to US/Canada mid-market decision-makers with an East-Africa SME secondary market, publishing Instagram carousels and reels and operating a Paperclip multi-agent company. He also runs FeetBit, a sneaker retail brand in Uganda selling through Instagram and WhatsApp. He builds content pipelines (carousels, reels, voice, video), Instagram automation, Telegram agents, and small SaaS tools, mostly in TypeScript and Python with Claude Code.",
-  "generated_at": "2026-11-23T05:40:08.143Z"
+  "generated_at": "2026-11-24T05:40:15.410Z"
 }
