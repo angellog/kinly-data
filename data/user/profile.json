@@ -73,6 +73,10 @@
     "paperclip": 2
   },
   "star_topics": {
+    "hacktoberfest": 0.073,
+    "c": 0.036,
+    "ffmpeg": 0.145,
+    "screen-capture": 0.036,
     "android": 0.073,
     "ios": 0.055,
     "llama-cpp": 0.073,
@@ -123,7 +127,6 @@
     "claude": 0.509,
     "claude-code-skill": 0.036,
     "creative-coding": 0.036,
-    "ffmpeg": 0.127,
     "motion-graphics": 0.036,
     "text-to-speech": 0.109,
     "threejs": 0.036,
@@ -231,6 +234,7 @@
     "machine-learning": 0.055,
     "autonomous-agents": 0.055,
     "cloning": 0.036,
+    "gemini-cli-extension": 0.036,
     "good-first-issue": 0.036,
     "openclaw": 0.182,
     "marketing": 0.036,
@@ -267,7 +271,6 @@
     "clawdbot": 0.036,
     "moltbot": 0.036,
     "google": 0.055,
-    "hacktoberfest": 0.055,
     "cloud": 0.036,
     "apify": 0.036,
     "ollama": 0.036,
@@ -340,5 +343,5 @@
     "reverse-engineering": 0.055
   },
   "business_context": "Angelo (GitHub angellog) is a solo builder. He runs Vantik Systems, an AI transformation advisory selling to US/Canada mid-market decision-makers with an East-Africa SME secondary market, publishing Instagram carousels and reels and operating a Paperclip multi-agent company. He also runs FeetBit, a sneaker retail brand in Uganda selling through Instagram and WhatsApp. He builds content pipelines (carousels, reels, voice, video), Instagram automation, Telegram agents, and small SaaS tools, mostly in TypeScript and Python with Claude Code.",
-  "generated_at": "2026-11-24T05:40:15.410Z"
+  "generated_at": "2026-11-25T05:40:17.065Z"
 }
